@@ -3,8 +3,7 @@
 <br>
 Here are some ideas to get you started:
 <BR>
-- 🌱 I’m currently learning ...
-Ask me about ... Opensource 
+
 Fun fact: 
 <!--
 **piyush7900/piyush7900** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
